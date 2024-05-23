@@ -1,9 +1,7 @@
 /* Importing webfonts */
 /* (If you're learning CSS, you should disregard that) */
 
-@import url(https://fonts.googleapis.com/css?family=Yeseva+One);
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,700italic,400italic);
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 /* CSS reset rules */
 
